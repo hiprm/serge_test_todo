@@ -31,10 +31,10 @@ Run Migrations
 
 APIs (Postman Collection includ postman folder)
 
-POST:http://localhost:8000/api/v1/login
+    POST:http://localhost:8000/api/v1/login
 
-GET:http://localhost:8000/api/v1/todos
-GET:http://localhost:8000/api/v1/todo/{id}
-POST:http://localhost:8000/api/v1/todo_store
-PUT:http://localhost:8000/api/v1/todo_update/{id}
-DELETE:http://localhost:8000/api/v1/todo_delete/{id}
+    GET:http://localhost:8000/api/v1/todos
+    GET:http://localhost:8000/api/v1/todo/{id}
+    POST:http://localhost:8000/api/v1/todo_store
+    PUT:http://localhost:8000/api/v1/todo_update/{id}
+    DELETE:http://localhost:8000/api/v1/todo_delete/{id}
