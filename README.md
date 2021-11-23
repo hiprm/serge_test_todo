@@ -7,7 +7,6 @@
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
 
 Switch to the repo folder
 
