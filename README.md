@@ -11,7 +11,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd serge_test_todo
 
 Install all the dependencies using composer
 
