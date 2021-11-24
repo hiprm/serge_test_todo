@@ -37,3 +37,10 @@ APIs (Postman Collection includ postman folder)
     POST:http://localhost:8000/api/v1/todo_store
     PUT:http://localhost:8000/api/v1/todo_update/{id}
     DELETE:http://localhost:8000/api/v1/todo_delete/{id}
+    
+status. (Todo, Inprogress and Done)
+    
+    TODO - 0
+    Inprogrees - 1
+    Done - 2
+
